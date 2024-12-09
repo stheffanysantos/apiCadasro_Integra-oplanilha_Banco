@@ -1,0 +1,7 @@
+/seu_projeto
+    /app.py
+    /sync.py
+    /templates
+        index.html
+    /static
+        style.css
